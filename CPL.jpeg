@@ -1,3 +1,4 @@
 git checkout <images>
-git rm <path/to/file.ext>
+git rm <CPL.jpeg>
+
 
